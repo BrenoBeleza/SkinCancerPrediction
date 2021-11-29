@@ -1,8 +1,8 @@
-# SkinCancerPrediction
+# SkinLesionClassification
 
 ## 1. Projeto
 
-O projeto _SkinCancerPrediction_ consiste na criação de um algoritmo utilizando redes neurais para determinação do tipo de cancer de pele por meio de imagem.
+O projeto _SkinLesionClassification_ consiste na criação de um algoritmo utilizando redes neurais para determinação do tipo de cancer de pele por meio de imagem.
 
 ## 2. Problemática
 
